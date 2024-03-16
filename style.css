@@ -1,0 +1,32 @@
+  padding: 10px;
+  gap: 10px;
+}
+button {
+  width: 40%;
+  height: 40px;
+  margin-left: 150px;
+  background-color: green;
+  border-radius: 25px;
+}
+button:hover {
+  cursor: pointer;
+  background-color: orange;
+}
+table {
+  border-collapse: collapse;
+  width: 90%;
+  margin-left: 20px;
+  margin-top: 20px;
+  background-color: rgba(0, 217, 255, 0.852);
+}
+th {
+  background-color: black;
+  color: aqua;
+}
+th,
+td {
+  border: 2px solid #ddd;
+  padding: 8px;
+  text-align: left;
+  font-weight: bolder;
+}
